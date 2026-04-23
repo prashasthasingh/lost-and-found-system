@@ -5,7 +5,7 @@
 import axios from 'axios';
 
 // Base URL for our backend API
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://lost-found-backend-evwt.onrender.com';
 
 // Create an Axios instance with the backend base URL
 const api = axios.create({
